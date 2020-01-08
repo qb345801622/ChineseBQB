@@ -91,3 +91,9 @@ search:
 # Extensions
 plugins: hexo-generator-sitemap
 
+
+
+lazyload:
+  enable: true
+  onlypost: false
+  loadingImg: /ChineseBQB/images/loading.png
