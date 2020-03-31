@@ -9,7 +9,7 @@
 
 ## Chinese sticker pack / 中国的表情包
 
-## 表情包目录(共收录3527张表情包)Emoticon package directory (commonly included 3527 emoticon pack)
+## 表情包目录(共收录3772张表情包)Emoticon package directory (commonly included 3772 emoticon pack)
 | Example(示例)  |  链接(Entrance link)  | 
 | :---: | :---: |
 | <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/001Funny_滑稽大佬😏BQB/0.gif /> | [001Funny_滑稽大佬😏BQB(已收录37张)](https://zhaoolee.github.io/ChineseBQB/001Funny_滑稽大佬😏BQB/) |
@@ -22,7 +22,6 @@
 | <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/008HappyDuck_开心鸭🐥BQB/0.gif /> | [008HappyDuck_开心鸭🐥BQB(已收录13张)](https://zhaoolee.github.io/ChineseBQB/008HappyDuck_开心鸭🐥BQB/) |
 | <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/009KumamotoBear_熊本熊🐻BQB/0.gif /> | [009KumamotoBear_熊本熊🐻BQB(已收录31张)](https://zhaoolee.github.io/ChineseBQB/009KumamotoBear_熊本熊🐻BQB/) |
 | <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/010Cat_是喵星人啦🐱BQB/-18746a853ca369fa.jpg /> | [010Cat_是喵星人啦🐱BQB(已收录166张)](https://zhaoolee.github.io/ChineseBQB/010Cat_是喵星人啦🐱BQB/) |
-| <img height='100px' style='height:100px;' src= /> | [010Cat_猫🐱BQB(已收录0张)](https://zhaoolee.github.io/ChineseBQB/010Cat_猫🐱BQB/) |
 | <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/011Dog_狗🐶BQB/0.gif /> | [011Dog_狗🐶BQB(已收录52张)](https://zhaoolee.github.io/ChineseBQB/011Dog_狗🐶BQB/) |
 | <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/012Parrot_鹦鹉🐦BQB/0.gif /> | [012Parrot_鹦鹉🐦BQB(已收录16张)](https://zhaoolee.github.io/ChineseBQB/012Parrot_鹦鹉🐦BQB/) |
 | <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/013PigPecs_小猪佩奇👑BQB/0.gif /> | [013PigPecs_小猪佩奇👑BQB(已收录21张)](https://zhaoolee.github.io/ChineseBQB/013PigPecs_小猪佩奇👑BQB/) |
@@ -70,9 +69,16 @@
 | <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/055AllHeart_全是心心BQB/0.jpg /> | [055AllHeart_全是心心BQB(已收录66张)](https://zhaoolee.github.io/ChineseBQB/055AllHeart_全是心心BQB/) |
 | <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/056Doraemon_哆啦A梦BQB/0.png /> | [056Doraemon_哆啦A梦BQB(已收录33张)](https://zhaoolee.github.io/ChineseBQB/056Doraemon_哆啦A梦BQB/) |
 | <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/057HappyDuck_开心鸭BQB/0.jpg /> | [057HappyDuck_开心鸭BQB(已收录49张)](https://zhaoolee.github.io/ChineseBQB/057HappyDuck_开心鸭BQB/) |
+| <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/058_2020Coronavirus_冠状病毒BQB/0.jpg /> | [058_2020Coronavirus_冠状病毒BQB(已收录14张)](https://zhaoolee.github.io/ChineseBQB/058_2020Coronavirus_冠状病毒BQB/) |
+| <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/059_Couple_Head_沙雕情侣头像BQB/0.png /> | [059_Couple_Head_沙雕情侣头像BQB(已收录24张)](https://zhaoolee.github.io/ChineseBQB/059_Couple_Head_沙雕情侣头像BQB/) |
+| <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/060MurCat_Mur猫😺BQB/01.jpg /> | [060MurCat_Mur猫😺BQB(已收录22张)](https://zhaoolee.github.io/ChineseBQB/060MurCat_Mur猫😺BQB/) |
+| <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/061KeNan_柯南🕵️‍♂️BQB/01.jpg /> | [061KeNan_柯南🕵️‍♂️BQB(已收录165张)](https://zhaoolee.github.io/ChineseBQB/061KeNan_柯南🕵️‍♂️BQB/) |
+| <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/062CaiXvKun_蔡徐坤🏀BQB/001.gif /> | [062CaiXvKun_蔡徐坤🏀BQB(已收录9张)](https://zhaoolee.github.io/ChineseBQB/062CaiXvKun_蔡徐坤🏀BQB/) |
+| <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/063WebBrowser_浏览器BQB/0.gif /> | [063WebBrowser_浏览器BQB(已收录6张)](https://zhaoolee.github.io/ChineseBQB/063WebBrowser_浏览器BQB/) |
+| <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/064Trump_特朗普BQB/0.png /> | [064Trump_特朗普BQB(已收录5张)](https://zhaoolee.github.io/ChineseBQB/064Trump_特朗普BQB/) |
 | <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/微信网友贡献表情包_暂存_有时间慢慢整理BQB/0.png /> | [微信网友贡献表情包_暂存_有时间慢慢整理BQB(已收录36张)](https://zhaoolee.github.io/ChineseBQB/微信网友贡献表情包_暂存_有时间慢慢整理BQB/) |
 | <img height='100px' style='height:100px;' src=https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/斗图之王BQB/0.gif /> | [斗图之王BQB(已收录19张)](https://zhaoolee.github.io/ChineseBQB/斗图之王BQB/) |
-> 数据生成时间: 2020-01-04
+> 数据生成时间: 2020-03-07
 
 BQBEND
 
@@ -93,10 +99,8 @@ BQBEND
 
 ## 同步本项目内容的公众号
 
-![](https://user-images.githubusercontent.com/15868458/71708607-94054200-2e2d-11ea-88cf-5b3d61153f38.jpeg)
-
-
-公众号 `jikeweikan` 由项目作者zhaoolee运营, 在2020年会同步更新ChineseBQB (中国人的表情包 PP制造计划) ,  也会放一些zhaoolee自认为有趣的内容, 欢迎关注~
+![](https://user-images.githubusercontent.com/15868458/71973717-aaa30300-324a-11ea-8677-9260ca2c4b1f.png)
+公众号 「0加1」 由本项目作者 zhaoolee运营, 在2020年会同步更新ChineseBQB (中国人的表情包 PP制造计划) ,  也会放一些zhaoolee自认为有趣的内容, 欢迎关注~
 
 
 
